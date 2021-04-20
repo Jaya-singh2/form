@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html {
+  font-size: 15px;
+  margin: 10px;
+  padding: 18px;
+}
+.main-form {
+  margin-top: 3rem;
+  width: 60vw;
+}
+
+.card {
+  margin: 1rem auto;
+  box-shadow: -3px -3px 20px 0 lightgrey;
+}
+.heading {
+  text-align: center;
+  margin-bottom: 3rem;
+}
+.none {
+  display: none;
+}
+.block {
+  display: block;
+}
